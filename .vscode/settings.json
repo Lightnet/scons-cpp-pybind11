@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "SConstruct": "python"
+    },
+
+    "development_mode":"release",   //development build mode
+    "output_dir":"bin",             //out put bin builds
+}
